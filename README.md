@@ -11,5 +11,6 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=rajek88&show_icons=true&theme=radical"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajek88&layout=compact" />
 </a>
-<a style="padding:5px 10px; border-radius:50px; text-align:center; border:none; text-decoration:none; color:white; background-color:#2B7DE9" href="https://linkedin.com/in/raje-kulkarni">Connect with me on LinkedIn</a>
+<br>
+<a href="https://linkedin.com/in/raje-kulkarni">Connect with me on LinkedIn</a>
 
