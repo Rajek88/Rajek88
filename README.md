@@ -6,9 +6,8 @@
 ☁  I feel awesome while working with React, NodeJS, Firebase, AWS, GCP, Adobe XD, C++.
 
 
-<div style="width:100%; display :flex; flex-direction:column; justify-content : center; align-items:center;">
-  <img style="width:90%" align="center" src="https://github-readme-stats.vercel.app/api?username=rajek88&show_icons=true&theme=radical"/>
-  <img style="width:90%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajek88&layout=compact" />
-  <img style="width:90%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajek88" />
+<div style="width:100%; text-align:center;">
+  <img  src="https://github-readme-stats.vercel.app/api?username=rajek88&show_icons=true&theme=radical"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajek88&layout=compact" />
 </div>
 
