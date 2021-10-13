@@ -7,9 +7,9 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=rajek88&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajek88&layout=compact) -->
-<div style="width:100%; text-align:center;">
+<a style="width:100%; text-align:center;" href="https://github.com/Rajek88/Rajek88">
   <img  src="https://github-readme-stats.vercel.app/api?username=rajek88&show_icons=true&theme=radical"/>
   <br>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajek88&layout=compact" />
-</div>
+</a>
 
