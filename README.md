@@ -1,4 +1,4 @@
-![](https://github.com/Rajek88/Rajek88/blob/main/forGithub.png)
+![](https://github.com/Rajek88/Rajek88/blob/main/forGithub1.png)
 ### Hi there 👋
 
 ⚛  I'm a Full Stack Web Developer [ MERN ].<br>
