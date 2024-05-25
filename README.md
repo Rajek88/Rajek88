@@ -1,7 +1,7 @@
 ![](https://github.com/Rajek88/Rajek88/blob/main/forGithub1.png)
 ### Hi there 👋
 
-⚛  I'm a Full Stack Developer [ MERN ].<br>
+⚛  I'm an AI & Full Stack Developer.<br>
 🤩 Built some supercool stuff at <a href="https://wingify.com" target="_blank">Wingify</a>.<br>
 ☁  I feel awesome while working with AI, Electronics, SQL, React, NodeJS, Firebase, MongoDB, AWS, GCP, Adobe XD, C++.
 
