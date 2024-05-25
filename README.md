@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 ⚛  I'm a Full Stack Developer [ MERN ].<br>
-🤩 Building some supercool stuff at <a href="https://wingify.com" target="_blank">Wingify</a>.<br>
+🤩 Built some supercool stuff at <a href="https://wingify.com" target="_blank">Wingify</a>.<br>
 ☁  I feel awesome while working with AI, Electronics, SQL, React, NodeJS, Firebase, MongoDB, AWS, GCP, Adobe XD, C++.
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=rajek88&show_icons=true&theme=radical)
