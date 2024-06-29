@@ -2,6 +2,7 @@
 ### Hi there 👋
 
 ⚛  I'm an AI & Full Stack Developer.<br>
+🚀 Built Zenifi: A FinTech company from scratch and sold it to a bigger company.
 🤩 Built some supercool stuff at <a href="https://wingify.com" target="_blank">Wingify</a>.<br>
 ☁  I feel awesome while working with AI, Electronics, SQL, React, NodeJS, Firebase, MongoDB, AWS, GCP, Adobe XD, C++.
 
