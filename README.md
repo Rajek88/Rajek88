@@ -1,7 +1,7 @@
 ![](https://github.com/Rajek88/Rajek88/blob/main/forGithub1.png)
 ### Hi there 👋
 
-⚛  I'm an AI & Full Stack Developer.<br>
+⚛  I'm a Tech Entreprenuer & Full Stack Developer.<br>
 🚀 Built Zenifi: A FinTech company from scratch and sold it to a bigger company.<br>
 🤩 Built some supercool stuff at <a href="https://wingify.com" target="_blank">Wingify</a>.<br>
 ☁  I feel awesome while working with AI, Electronics, SQL, React, NodeJS, Firebase, MongoDB, AWS, GCP, Adobe XD, C++.
