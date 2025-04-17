@@ -5,7 +5,7 @@
 🤩 Building again at <a href="https://wingify.com" target="_blank">Wingify</a>.<br>
 🚀 Built Zenifi: A FinTech company from scratch and sold it to a bigger company.<br>
 🤩 Built some supercool stuff at <a href="https://wingify.com" target="_blank">Wingify</a>.<br>
-☁  I feel awesome while working with AI, Electronics, SQL, React, NodeJS, Firebase, MongoDB, AWS, GCP, Adobe XD, C++.
+☁  I feel awesome while working with AI, Electronics, SQL, React, NodeJS, Firebase, MongoDB, AWS, GCP, Adobe XD, Python.
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=rajek88&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajek88&layout=compact) -->
